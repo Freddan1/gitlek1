@@ -29,11 +29,17 @@
 
 ###### HEADER 6
 
+<<<<<<< HEAD
 H~2~O
 =======
+=======
+<<<<<<< HEAD
+H~2~O
+=======
+
+>>>>>>> 6b05bebee37c8253cd613bc05255f822566e6382
 H~2~O ~subscript hej~
 H<sub>2</sub>O
 
 
-=======
 [Gå till Google](https://www.google.com)
