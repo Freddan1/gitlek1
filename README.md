@@ -28,7 +28,6 @@ H~2~O
 =======
 
 H~2~O ~subscript hej~
->>>>>>> refs/remotes/origin/main
 H<sub>2</sub>O
 
 
