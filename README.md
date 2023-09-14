@@ -14,7 +14,7 @@
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
-- [ ] Task 4
+- [x] Task 4
 - [ ] Task 5
 
 ##### HEADER 5
@@ -23,4 +23,11 @@
 
 ###### HEADER 6
 
+<<<<<<< HEAD
+H~2~O ~subscript hej~
+H<sub>2</sub>O
+
+
+=======
 [Gå till Google](https://www.google.com)
+>>>>>>> a680ce1f53d1b2c9bca7d3687f1b5ad3e705f972
