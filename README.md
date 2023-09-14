@@ -25,11 +25,13 @@
 
 ##### HEADER 5
 
-![Finn Från Adventure Time](nedladdning.jpg)
+![Finn Från Adventure Time](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
 ###### HEADER 6
 
 H~2~O
+=======
+H~2~O ~subscript hej~
 H<sub>2</sub>O
 
 
