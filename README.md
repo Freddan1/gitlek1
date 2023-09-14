@@ -24,7 +24,7 @@
 ###### HEADER 6
 
 <<<<<<< HEAD
-H~2~O ^superscript hej^ ~subscript hej~
+H~2~O ~subscript hej~
 H<sub>2</sub>O
 
 
