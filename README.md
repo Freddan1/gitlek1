@@ -6,13 +6,10 @@
 
 #### HEADER 4
 
-<<<<<<< HEAD
 | THIS is sparta | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
-=======
-=======
 ### Check box list
 - [ ] Task 1
 - [ ] Task 2
@@ -20,9 +17,17 @@
 - [x] Task 4
 - [ ] Task 5
 
->>>>>>> 138ff143c94c68bbe422a774f4267bf5311c94c1
 ##### HEADER 5
+
+![Finn Från Adventure Time](nedladdning.jpg)
 
 ###### HEADER 6
 
+<<<<<<< HEAD
+H~2~O
+H<sub>2</sub>O
+
+
+=======
 [Gå till Google](https://www.google.com)
+>>>>>>> a680ce1f53d1b2c9bca7d3687f1b5ad3e705f972
