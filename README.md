@@ -6,7 +6,7 @@
 ***
 #### HEADER 4
 ***
-=======
+
 
 | THIS is sparta | Description |
 | ----------- | ----------- |
@@ -25,15 +25,15 @@
 
 ##### HEADER 5
 
-![Finn Från Adventure Time](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
+![Tux](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
 ###### HEADER 6
 
-<<<<<<< HEAD
+
 H~2~O
 =======
-=======
-<<<<<<< HEAD
+
+
 H~2~O
 =======
 
